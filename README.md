@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-haha
+
+Hello my name is Lee Gyeongwon and I'm learning coding, open sorce, english, and etc in gachon college.
+I think this major fits me! I'm enjoying what I'm learning and I want to learn more! 
